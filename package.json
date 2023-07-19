@@ -26,5 +26,8 @@
   ],
   "dependencies": {
     "fastify-plugin": "^4.5.1"
+  },
+  "peerDependencies": {
+    "fastify": "^4"
   }
 }
