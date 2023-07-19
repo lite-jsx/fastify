@@ -1,0 +1,27 @@
+{
+  "name": "@lite-jsx/fastify",
+  "version": "1.0.0",
+  "description": "Plugin that uses lite-jsx to render JSX templates in an Fastify application.",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node lib/index.spec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lite-jsx/fastify.git"
+  },
+  "author": "Daniel Prates",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lite-jsx/fastify/issues"
+  },
+  "homepage": "https://github.com/lite-jsx/fastify#readme",
+  "keywords": [
+    "jsx",
+    "html",
+    "Plugin",
+    "fastify"
+  ]
+}
