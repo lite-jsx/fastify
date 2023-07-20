@@ -21,8 +21,8 @@
   "keywords": [
     "jsx",
     "html",
-    "Plugin",
-    "fastify"
+    "fastify",
+    "fastify-plugin"
   ],
   "dependencies": {
     "fastify-plugin": "^4.5.1"
